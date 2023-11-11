@@ -86,7 +86,7 @@ def create_seller_city_df(df):
 
 
 # load berkas all_data sebagai sebuah DataFrame
-all_df = pd.read_csv("main_data.csv")
+all_df = pd.read_csv("dashboard/main_data.csv")
 
 
 
